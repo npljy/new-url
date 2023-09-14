@@ -1,6 +1,6 @@
 {
   "name": "url-new",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "URL",
   "private": false,
   "scripts": {
@@ -28,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/npljy/newurl/issues"
   },
-  "main": "test.js"
+  "main": "index.js"
 }
