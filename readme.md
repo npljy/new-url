@@ -3,7 +3,7 @@
 #### 在使用的页面直接引用
 
 ```js
-npm i new-url --save
+npm i url-new --save
 
 import URL from 'url-new'
 
